@@ -21,4 +21,4 @@ function miniurl(url, token, callback) {
     });
 }
 
-module.export = miniurl;
+module.exports = miniurl;
