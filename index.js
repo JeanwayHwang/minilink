@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-function miniurl(url, token, callback) {
+function minilink(url, token, callback) {
     if (!url || !token || !callback || (typeof callback !== 'function')) {
         console.error('调用参数错误');
         return;
@@ -21,4 +21,4 @@ function miniurl(url, token, callback) {
     });
 }
 
-module.exports = miniurl;
+module.exports = minilink;

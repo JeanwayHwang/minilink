@@ -1,5 +1,5 @@
 {
-  "name": "miniurl",
+  "name": "minilink",
   "version": "1.0.0",
   "description": "短网址服务",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryanism37/miniurl.git"
+    "url": "git+https://github.com/ryanism37/minilink.git"
   },
   "keywords": [
     "短网址"
@@ -17,9 +17,9 @@
   "author": "JeanwayHwang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ryanism37/miniurl/issues"
+    "url": "https://github.com/ryanism37/minilink/issues"
   },
-  "homepage": "https://github.com/ryanism37/miniurl#readme",
+  "homepage": "https://github.com/ryanism37/minilink#readme",
   "dependencies": {
     "axios": "^0.18.0"
   },
