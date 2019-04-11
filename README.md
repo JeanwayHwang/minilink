@@ -5,13 +5,13 @@
 
 ## 安装使用
 
-1. 前往https://dwz.cn/申请鉴权token
+1. 前往 https://dwz.cn/ 申请鉴权token
 2. 通过NPM安装miniurl
 3. 开始使用
 
 ### 浏览器环境:
 ``` javascript
-    <script src="./miniurl.min.js"></script>
+    <script src="./dist/miniurl.min.js"></script>
     miniurl('http://www.baidu.com', 'your_token',function(result) {
         console.log(result);
     });
