@@ -11,16 +11,16 @@
 
 ### 浏览器环境:
 ``` javascript
-    <script src="./dist/minilink.min.js"></script>
-    minilink('http://www.baidu.com', 'your_token',function(result) {
-        console.log(result);
-    });
+<script src="./dist/minilink.min.js"></script>
+minilink('http://www.baidu.com', 'your_token',function(result) {
+    console.log(result);
+});
 ```
 
 ### Node环境:
 ``` javascript
-    var minilink = require('minilink');
-    minilink('http://www.baidu.com', 'your_token',function(result) {
-        console.log(result);
-    });
+var minilink = require('minilink');
+minilink('http://www.baidu.com', 'your_token',function(result) {
+    console.log(result);
+});
 ```
