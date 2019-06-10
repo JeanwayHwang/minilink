@@ -1,7 +1,6 @@
-# minilink
-短网址服务
+# [minilink](https://www.npmjs.com/package/minilink)
 
-> 目的：基于百度dwz提供短网址服务
+> 短网址服务：基于百度dwz提供短网址服务
 
 ## 安装使用
 
